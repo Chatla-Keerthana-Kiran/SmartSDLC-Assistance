@@ -1,8 +1,5 @@
 # SmartSDLC-Assistance
-Sure! Here's a refined and professional **README.md** text for your GitHub repository, without any mention of an internship or program. It's tailored for a public project showcase:
-
----
-
+ 
 # SmartSDLC – AI-Enhanced Software Development Lifecycle
 
 **SmartSDLC** is a full-stack, AI-driven platform designed to streamline and automate key phases of the Software Development Lifecycle (SDLC). By leveraging state-of-the-art Natural Language Processing (NLP) and generative AI, SmartSDLC bridges the gap between unstructured inputs and structured development workflows, making software creation faster, smarter, and more efficient.
@@ -103,4 +100,4 @@ An integrated floating chatbot assistant to answer queries related to software d
 
 ---
 
-Let me know if you'd like a version optimized for a portfolio, job applications, or a client pitch.
+ 
